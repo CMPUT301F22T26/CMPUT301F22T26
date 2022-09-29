@@ -6,6 +6,7 @@ public abstract class Shape {
     Shape(int x, int y){
         this.x = x;
         this.y = y;
+        String color = "white";
 
     }
 
