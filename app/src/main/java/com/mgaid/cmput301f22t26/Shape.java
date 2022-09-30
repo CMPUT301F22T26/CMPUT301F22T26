@@ -8,7 +8,7 @@ public abstract class Shape {
         this.x = x;
         this.y = y;
         String color = "white";
-        String color1 = "yellow";
+        String color1 = "blue";
 
     }
 
